@@ -64,7 +64,7 @@ The machine transitions from S0 to S1 when the first `1` is shifted out and rema
 | `miniproject.v` | Main Verilog implementation |
 | `miniproject_tb.v` | Self-checking testbench |
 | `simulation/` | Simulation output and GTKWave screenshots |
-| `docs/` | Project report and presentation guide |
+| `docs/` | Project report |
 
 ## Tools and Technologies
 
